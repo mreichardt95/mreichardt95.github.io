@@ -5,7 +5,7 @@ title: What I have done so far
 
 # March 2017
 
-Nothing to see here, yet!
+- [About me & this blog](https://mreichardt95.github.io/ssyu/2017/03/26/aboutthisblog)
 
 <!--
 # March 2017
