@@ -11,8 +11,8 @@ permalink:        pretty
 title:            syyu
 tagline:          "prepend tar"
 description:      "Extracted view of my projects - partly in english, partly german"
-url:              https://mreichardt95.github.io/syyu/
-baseurl:          /
+url:              https://mreichardt95.github.io/
+baseurl:          /syyu/
 
 author:
   name:           'Milian Reichardt'
