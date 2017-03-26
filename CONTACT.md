@@ -5,10 +5,10 @@ title: Contact
 
 # I live in Germany, so I have to provide these information.
 
-Matthias Riegler
+Milian Reichardt
 
-Carl-Gördelerstraße 8
+Ringstraße 8
 
-66663 Merzig
+97222 Rimpar
 
-matthias __at__ xvzf.tech
+mreichardt95 __at__ gmail.com

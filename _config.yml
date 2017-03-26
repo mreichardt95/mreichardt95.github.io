@@ -8,9 +8,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            syyu
-tagline:          "prepend tar"
-description:      "Extracted view of my projects - partly in english, partly german"
+title:            Syyu
+tagline:          "Always Up-to-date"
+description:      "Updates on my current projects"
 url:              https://mreichardt95.github.io/
 baseurl:          /syyu/
 
