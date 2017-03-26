@@ -8,15 +8,15 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            xvzf
+title:            syyu
 tagline:          "prepend tar"
 description:      "Extracted view of my projects - partly in english, partly german"
-url:              https://github.com/xvzf
+url:              https://mreichardt95.github.io/syyu/
 baseurl:          /
 
 author:
-  name:           'Matthias Riegler'
-  url:            http://blog.xvzf.tech
+  name:           'Milian Reichardt'
+  url:            https://mreichardt95.github.io/syyu/
 
 paginate:         1
 
